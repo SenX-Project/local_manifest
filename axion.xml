@@ -4,8 +4,6 @@
     <!-- Remotes -->
     <remote name="SenX-Project" fetch="https://github.com/SenX-Project" />
     <remote name="munch-devs" fetch="https://codeberg.org/munch-devs" />
-    <remote name="SenseiiX" fetch="https://github.com/SenseiiX" />
-    <remote name="LineageOS" fetch="https://github.com/LineageOS" />
     <remote name="PocoF3Releases" fetch="https://github.com/PocoF3Releases" />
     <!-- Projects -->
     <project
@@ -25,13 +23,13 @@
         revision="vic" />
     <project
         path="kernel/xiaomi/munch"
-        name="fusionX_sm8250"
-        remote="SenseiiX"
-        revision="mod" />
+        name="xiaomi_sm8250_kernel_e404"
+        remote="SenX-Project"
+        revision="main" />
     <project
         path="hardware/xiaomi"
         name="android_hardware_xiaomi"
-        remote="LineageOS"
+        remote="SenX-Project"
         revision="lineage-23.2" />
     <project
         path="hardware/dolby"
