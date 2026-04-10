@@ -6,7 +6,7 @@
     <remote name="extras" fetch="https://github.com/PocoF3Releases" />
   
     <!-- Device -->
-    <project path="device/xiaomi/munch" name="android_device_xiaomi_munch" remote="SenX-Project" revision="ax" />
+    <project path="device/xiaomi/munch" name="android_device_xiaomi_munch" remote="SenX-Project" revision="ax2" />
 
     <!-- Vendor -->
     <project path="vendor/xiaomi/munch" name="android_vendor_xiaomi_munch" remote="SenX-Project" revision="16-qpr2" />
@@ -15,7 +15,7 @@
      <project path="vendor/lineage-priv/keys" name="priv-keys" remote="SenX-Project" revision="16" />
 
     <!-- Kernel -->
-    <project path="kernel/xiaomi/munch" name="xiaomi_sm8250_kernel_e404" remote="SenX-Project" revision="noksu" />
+    <project path="kernel/xiaomi/munch" name="xiaomi_sm8250_kernel_e404" remote="SenX-Project" revision="main" />
 
     <!-- Hardware -->
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="SenX-Project" revision="lineage-23.2" />
