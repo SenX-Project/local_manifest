@@ -10,8 +10,8 @@
 
     <!-- Vendor -->
     <project path="vendor/xiaomi/munch" name="android_vendor_xiaomi_munch" remote="SenX-Project" revision="16-qpr2" />
-    <project path="vendor/xiaomi/munch-firmware" name="android_vendor_xiaomi_munch-firmware" remote="SenX-Project" revision="vic" />
-    <project path="vendor/xiaomi/miuicamera" name="android_vendor_xiaomi_miuicamera" remote="SenX-Project" revision="vic" />
+    <project path="vendor/xiaomi/munch-firmware" name="android_vendor_xiaomi_munch-firmware" remote="SenX-Project" revision="16-qpr2" />
+    <project path="vendor/xiaomi/miuicamera" name="android_vendor_xiaomi_miuicamera" remote="SenX-Project" revision="16-qpr2" />
 
     <!-- Kernel -->
     <project path="kernel/xiaomi/munch" name="xiaomi_sm8250_kernel_e404" remote="SenX-Project" revision="noksu" />
