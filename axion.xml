@@ -13,7 +13,7 @@
     <project path="vendor/xiaomi/munch-firmware" name="android_vendor_xiaomi_munch-firmware" remote="Sen" revision="17" />
 
     <!-- MIUI Camera -->
-    <project path="vendor/xiaomi/camera" name="android_vendor_xiaomi_camera" remote="extras" revision="17" />
+    <project path="vendor/xiaomi/camera" name="android_vendor_xiaomi_camera" remote="Sen" revision="17" />
 
     <!-- Hardware -->
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="Sen" revision="lineage-23.2" />
