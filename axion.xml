@@ -11,7 +11,7 @@
     <project path="vendor/xiaomi/munch" name="android_vendor_xiaomi_munch" remote="Sen" revision="lineage-23.2" />
     <project path="vendor/xiaomi/sm8250-common" name="android_vendor_xiaomi_sm8250-common" remote="Sen" revision="lineage-23.2" />
     <project path="vendor/xiaomi/munch-firmware" name="android_vendor_xiaomi_munch-firmware" remote="Sen" revision="17" />
-    <project path="vendor/lineage-priv/keys" name="priv-keys" remote="Sent" revision="16" />
+    <project path="vendor/lineage-priv/keys" name="priv-keys" remote="Sen" revision="16" />
 
     <!-- MIUI Camera -->
     <project path="vendor/xiaomi/miuicamera" name="android_vendor_xiaomi_miuicamera" remote="Sen" revision="17" />
